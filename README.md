@@ -5,9 +5,9 @@
 
 ![Celestrino GitHub stats](https://github-readme-stats.vercel.app/api?username=celesttrino&show_icons=true&theme=radical)
 
-## tecnoligias que uso no meu dia
+## tecnologias que uso no meu dia
 <div style="display: inline-block;"><br/>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-Programor iniciante se aventurando no mundo da programão🚀
+Programador iniciante se aventurando no mundo da programação🚀
