@@ -4,7 +4,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestrinogustavo@gmail.com)
 
 ![Celestrino GitHub stats](https://github-readme-stats.vercel.app/api?username=celesttrino&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celesttrino&hide_progress=true)
 
 ## tecnoligias que uso no meu dia
 <div style="display: inline-block;"><br/>
